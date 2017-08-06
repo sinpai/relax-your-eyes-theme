@@ -1,5 +1,3 @@
-#Relax your eyes with green
-
 ### Custom theme for Emacs created with [ThemeCreator](http://mswift42.github.io/themecreator)
 
 ![Screenshot](https://d26dzxoao6i3hh.cloudfront.net/items/1L1J3q1E3c201z263m2u/scratch_2017-08-06_11-39-02.png?v=bae056b0)
